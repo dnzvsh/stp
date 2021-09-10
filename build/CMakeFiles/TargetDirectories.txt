@@ -1,0 +1,3 @@
+/home/dnzvsh/prog/cpp/stp/build/CMakeFiles/rebuild_cache.dir
+/home/dnzvsh/prog/cpp/stp/build/CMakeFiles/calc.dir
+/home/dnzvsh/prog/cpp/stp/build/CMakeFiles/edit_cache.dir
